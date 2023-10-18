@@ -1,45 +1,62 @@
-### Hi there 👋
+### Angel Paul Patiño Diaz, Hello! 👋
+## Account Second
+<!--
+**Anyel-ec/Anyel-ec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-¡Claro! Aquí tienes un ejemplo de un archivo `README.md` para un programador. Puedes personalizarlo según tus propias experiencias y habilidades:
+Here are some ideas to get you started:
 
-# Perfil de Programador
+- 🔭 I'm currently working on...
+- 🌱 I'm currently learning...
+- 👯 I'm looking to collaborate on...
+- 🤔 I'm looking for help with...
+- 💬Ask me about...
+- 📫How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!--![Profile Picture](https://res.cloudinary.com/dmkvix7ds/image/upload/v1680412806/maxresdefault_mnjyjk.jpg)-->
 
-¡Hola, soy [Tu Nombre]! Soy un apasionado programador con experiencia en una variedad de tecnologías y un amor por resolver problemas complejos. A continuación, encontrarás una breve descripción de quién soy y lo que puedo ofrecer:
+Hello! ✨ I am Angel Paul Patiño Diaz, an Information Technology Engineering student with experience in both the development of front-end and back-end technologies. I am committed to progress in all aspects of my life and am always looking for new opportunities to grow professionally. As a born entrepreneur, I am constantly learning and updating myself on the latest trends and technologies.
 
-## Acerca de mí
+I am self-taught and I love facing new challenges. I consider myself adaptable and comfortable working in a wide variety of environments. My goal is to develop innovative, high-quality solutions that meet the needs of my clients and end users.
 
-- **Nombre**: [Tu Nombre]
-- **Ubicación**: [Tu Ubicación]
-- **Correo electrónico**: [Tu Correo Electrónico]
-- **LinkedIn**: [Enlace a tu perfil de LinkedIn]
-- **GitHub**: [Enlace a tu perfil de GitHub]
+#### Personal Pages
+[![My Page](https://img.shields.io/badge/Página%20Web-FFCA28?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://anyel.top/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com)
+[![TikTok](https://img.shields.io/badge/TikTok-f24c0a?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@anyel.ec)
 
-## Experiencia
+## Technologies:
 
-Tengo experiencia en el desarrollo de software y he trabajado en una variedad de proyectos interesantes a lo largo de mi carrera. Algunas de mis experiencias más destacadas incluyen:
+#### Programming languages:
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C%23-a31dd6?style=for-the-badge&logo=c-sharp&logoColor=&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)]()
 
-- [Nombre de la Empresa / Proyecto] - [Fecha de Inicio] a [Fecha de Finalización]
-  - Descripción: Breve descripción de tu trabajo en este proyecto/empresa.
-  - Tecnologías utilizadas: Lista de tecnologías, lenguajes y herramientas utilizadas.
+#### Databases:
+[![SQL Server](https://img.shields.io/badge/SQL_Server-dd3f00?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=101010)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=1&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ecf50d&labelColor=101010)]()
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=101010)]()
+[![IBM Db2](https://img.shields.io/badge/IBM_Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=ffffffff&labelColor=101010)]()
 
-- [Nombre de la Empresa / Proyecto] - [Fecha de Inicio] a [Fecha de Finalización]
-  - Descripción: Breve descripción de tu trabajo en este proyecto/empresa.
-  - Tecnologías utilizadas: Lista de tecnologías, lenguajes y herramientas utilizadas.
+## Certificates and Education:
 
-## Habilidades
+- [IBM Professional Certificate: Cybersecurity Analyst](https://coursera.org/share/a36e6952e69bab2b0c7b709d72754521)
+- [IBM Professional Cybersecurity Analyst Certificate](https://www.coursera.org/account/accomplishments/professional-cert/7C5SZD9DCFCY)
+- [Computer Communications Specialization](https://www.coursera.org/account/accomplishments/specialization/7J9A5T4RUA3G)
+- [Google IT Support Professional Certificate](https://coursera.org/verify/professional-cert/6EAJ2NLGH5Y3)
+- [Cisco Junior Cybersecurity Analyst Certificate](https://www.credly.com/badges/c0e93741-8463-4e34-b085-c66135b13b4a/public_url)
+- Courses at the Tsachila Higher Technological Institute
 
-Soy competente en una variedad de tecnologías y lenguajes de programación, incluyendo, pero no limitado a:
 
-- Lenguajes de programación: [Lista de lenguajes, por ejemplo, Python, Java, JavaScript]
-- Frameworks y bibliotecas: [Lista de frameworks, por ejemplo, React, Angular, Django]
-- Bases de datos: [Lista de bases de datos, por ejemplo, MySQL, MongoDB]
-- Herramientas de desarrollo: [Lista de herramientas, por ejemplo, Git, Docker]
-- Otras habilidades: [Lista de otras habilidades relevantes, por ejemplo, resolución de problemas, arquitectura de software]
 
-## Proyectos Destacados
 
-He trabajado en una serie de proyectos interesantes a lo largo de mi carrera, algunos de los cuales pueden ser destacados aquí. Algunos ejemplos pueden incluir:
+## Education:
 
-- **Proyecto 1**: Breve descripción del proyecto, tecnologías utilizadas y logros.
-- **Proyecto 2**: Breve descripción del proyecto, tecnologías utilizadas y logros.
-- **Proyecto 3**: Breve descripción del proyecto, tecnologías utilizadas y logros.
+- University of the Armed Forces ESPE: Information Technology Engineering Student
+
+Thank you for visiting my profile! I am excited to work on new projects and collaborate in the development of innovative technological solutions. If you want to contact me or learn more about my projects, feel free to visit my GitHub profile: [https://github.com/angel-patino](https://github.com/angel-patino)
