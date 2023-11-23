@@ -40,7 +40,6 @@ I am self-taught and I love facing new challenges. I consider myself adaptable a
 [![SQL Server](https://img.shields.io/badge/SQL_Server-ffffff?style=for-the-badge&logo=microsoftsqlserver&logoColor=dd3f00&labelColor=ffffff)]()
 [![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=ffffff)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=ffffff)]()
-<!-- [![Firebase](https://img.shields.io/badge/Firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=ffffff)]() !-->
 [![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=ffffff)]()
 [![SQLite](https://img.shields.io/badge/SQLite-ffffff?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=ffffff)]()
 
