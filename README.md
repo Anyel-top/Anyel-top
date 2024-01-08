@@ -1,6 +1,6 @@
 ### Angel Paul Patiño Diaz, Hello! 👋
-# Account Second
-#Account Main
+## Account Second
+# Account Main
 https://github.com/anyel-ec
 
 <!--
